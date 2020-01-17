@@ -1,0 +1,33 @@
+/Users/emilmagnijohannsen/Projects/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.csproj.CoreCompileInputs.cache
+/Users/emilmagnijohannsen/Projects/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.AssemblyInfoInputs.cache
+/Users/emilmagnijohannsen/Projects/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.AssemblyInfo.cs
+/Users/emilmagnijohannsen/Projects/Yatzy/Yatzy/bin/Debug/netcoreapp2.1/Yatzy.deps.json
+/Users/emilmagnijohannsen/Projects/Yatzy/Yatzy/bin/Debug/netcoreapp2.1/Yatzy.runtimeconfig.json
+/Users/emilmagnijohannsen/Projects/Yatzy/Yatzy/bin/Debug/netcoreapp2.1/Yatzy.runtimeconfig.dev.json
+/Users/emilmagnijohannsen/Projects/Yatzy/Yatzy/bin/Debug/netcoreapp2.1/Yatzy.dll
+/Users/emilmagnijohannsen/Projects/Yatzy/Yatzy/bin/Debug/netcoreapp2.1/Yatzy.pdb
+/Users/emilmagnijohannsen/Projects/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.dll
+/Users/emilmagnijohannsen/Projects/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.pdb
+/Users/emilmagnijohannsen/Projects/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.csprojAssemblyReference.cache
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen/Yatzy/Yatzy/bin/Debug/netcoreapp2.1/Yatzy.deps.json
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen/Yatzy/Yatzy/bin/Debug/netcoreapp2.1/Yatzy.runtimeconfig.json
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen/Yatzy/Yatzy/bin/Debug/netcoreapp2.1/Yatzy.runtimeconfig.dev.json
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen/Yatzy/Yatzy/bin/Debug/netcoreapp2.1/Yatzy.dll
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen/Yatzy/Yatzy/bin/Debug/netcoreapp2.1/Yatzy.pdb
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.csprojAssemblyReference.cache
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.csproj.CoreCompileInputs.cache
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.AssemblyInfoInputs.cache
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.AssemblyInfo.cs
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.dll
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.pdb
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen 2/Yatzy/Yatzy/bin/Debug/netcoreapp2.1/Yatzy.deps.json
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen 2/Yatzy/Yatzy/bin/Debug/netcoreapp2.1/Yatzy.runtimeconfig.json
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen 2/Yatzy/Yatzy/bin/Debug/netcoreapp2.1/Yatzy.runtimeconfig.dev.json
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen 2/Yatzy/Yatzy/bin/Debug/netcoreapp2.1/Yatzy.dll
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen 2/Yatzy/Yatzy/bin/Debug/netcoreapp2.1/Yatzy.pdb
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen 2/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.csprojAssemblyReference.cache
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen 2/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.csproj.CoreCompileInputs.cache
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen 2/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.AssemblyInfoInputs.cache
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen 2/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.AssemblyInfo.cs
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen 2/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.dll
+/Users/emilmagnijohannsen/OneDrive - Aalborg Universitet/4. Semester/20175463_Emil_Magni_Johannsen 2/Yatzy/Yatzy/obj/Debug/netcoreapp2.1/Yatzy.pdb
